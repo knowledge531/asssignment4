@@ -1,1 +1,2 @@
 this is master.txt in master branch
+editing master.txt in private branch
